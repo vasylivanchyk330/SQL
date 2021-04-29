@@ -6,6 +6,10 @@ Content:
     however, I tried to do 4NF rules. no content inside the tables.
 3. folder certificates --  some SQL courses certificates. 
 
+<br>
+<br>
+<br>
+<br>
 
 1NF:
 - Primary key (no duplicate tuples)	
