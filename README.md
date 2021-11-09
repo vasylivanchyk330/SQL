@@ -11,6 +11,11 @@ Content:
 <br>
 <br>
 
+==================================================
+
+Quick recall:
+
+
 1NF:
 - Primary key (no duplicate tuples)	
 - No repeating groups
